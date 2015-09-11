@@ -1,0 +1,68 @@
+Downloading data for apricots.  Please wait...
+Download finished.
+The largest apricot producers in 1965 were...
+
+USSR,31,Area Harvested,1965,Ha,60000.00000,F 
+Turkey,31,Area Harvested,1965,Ha,46500.00000,
+United States of America,31,Area Harvested,1965,Ha,15460.00000,
+Spain,31,Area Harvested,1965,Ha,15100.00000,
+Tunisia,31,Area Harvested,1965,Ha,15000.00000,F 
+
+
+The largest apricot producers in 1975 were...
+
+USSR,31,Area Harvested,1975,Ha,71000.00000,F 
+Turkey,31,Area Harvested,1975,Ha,41500.00000,
+Spain,31,Area Harvested,1975,Ha,23300.00000,
+Tunisia,31,Area Harvested,1975,Ha,18981.00000,
+Italy,31,Area Harvested,1975,Ha,14000.00000,
+
+
+The largest apricot producers in 1985 were...
+
+Turkey,31,Area Harvested,1985,Ha,47250.00000,
+USSR,31,Area Harvested,1985,Ha,45000.00000,F 
+Spain,31,Area Harvested,1985,Ha,20000.00000,
+Iran - Islamic Republic of,31,Area Harvested,1985,Ha,16504.00000,F 
+Tunisia,31,Area Harvested,1985,Ha,15000.00000,
+
+
+The largest apricot producers in 1995 were...
+
+Turkey,31,Area Harvested,1995,Ha,57355.00000,
+Iran - Islamic Republic of,31,Area Harvested,1995,Ha,28000.00000,F 
+Spain,31,Area Harvested,1995,Ha,22500.00000,
+Ukraine,31,Area Harvested,1995,Ha,18600.00000,
+Tunisia,31,Area Harvested,1995,Ha,17000.00000,
+
+
+The largest apricot producers in 2005 were...
+
+Turkey,31,Area Harvested,2005,Ha,60000.00000,
+Iran - Islamic Republic of,31,Area Harvested,2005,Ha,49388.00000,
+Pakistan,31,Area Harvested,2005,Ha,28884.00000,
+Uzbekistan,31,Area Harvested,2005,Ha,28000.00000,
+Algeria,31,Area Harvested,2005,Ha,22888.00000,
+
+
+Please enter the agricultural product code of the item you wish to see data for...
+Download data for product code 572, please wait...
+Download complete.
+The first five lines of the file just download are...
+"Country or Area","Element Code","Element","Year","Unit","Value","Value Footnotes"
+"Africa +","31","Area Harvested","2007","Ha","62426.00000","A "
+"Africa +","31","Area Harvested","2006","Ha","59938.00000","A "
+"Africa +","31","Area Harvested","2005","Ha","60691.00000","A "
+"Africa +","31","Area Harvested","2004","Ha","60225.00000","A "
+Creating index file, please wait.
+Index file created.
+Please enter the name of an agricultural product which you wish to see data for...
+Downloading tomatoes data...
+Your tomatoes data is now ready in file UNdata_Export_20150911_054404115.csv
+Downloading ghcnd-countries.txt...
+Downloading ghcnd-inventory.txt...
+Downloading ghcnd-states.txt...
+Downloading ghcnd-stations.txt...
+Downloading ghcnd-version.txt...
+Downloading readme.txt...
+Downloading status.txt...

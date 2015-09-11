@@ -1,0 +1,23 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Knitr Demo}
+\author{Alexander Brandt\\SID: 24092167}
+\date{September 2015}
+
+\begin{document}
+
+\maketitle
+
+\section{Histogram of Lake Huron}
+
+The height of Lake Huron fluctuates over time.  Here I analyze the variation using R.  I show a histogram of the lake levels from \Sexpr{attributes(LakeHuron)$tsp[1]} to \Sexpr{attributes(LakeHuron)$tsp[2]}.
+
+<<fig.width=15>>=
+hist(LakeHuron)
+
+lowHi <- c(which.min(LakeHuron), which.max(LakeHuron))
+yearExtrema <- attributes(LakeHuron)$tsp[1]-1 + lowHi
+@
+
+\end{document}
